@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestJitPack.iml" filepath="$PROJECT_DIR$/TestJitPack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenlibrary/screenlibrary.iml" filepath="$PROJECT_DIR$/screenlibrary/screenlibrary.iml" />
     </modules>
   </component>
